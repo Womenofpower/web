@@ -88,9 +88,15 @@ nav li:first-child{
       padding: 0px;
       justify-content: none;
 	  }
+.content-s-box { 
+	padding: 0px 100px;
+	height: 350px;
+	display: block;
+    justify-content: space-between;
+}
 }
 .content-s-box { 
-	padding: 0px 50px;
+	padding: 0px 100px;
 	height: 350px;
 	display: flex;
     justify-content: space-between;
